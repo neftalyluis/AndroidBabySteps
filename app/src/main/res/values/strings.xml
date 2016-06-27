@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidBabySteps</string>
+    <string name="edit_message">Editar mensaje</string>
+    <string name="button_send">Enviar</string>
+    <string name="placeholder_text">Envia un mensaje</string>
+    <string name="title_activity_display_message">Envia un mensaje</string>
+</resources>
